@@ -1,0 +1,11 @@
+C:\Users\draak\source\repos\BMICalculator\BMICalculator\bin\Debug\BMICalculator.exe.config
+C:\Users\draak\source\repos\BMICalculator\BMICalculator\bin\Debug\BMICalculator.exe
+C:\Users\draak\source\repos\BMICalculator\BMICalculator\bin\Debug\BMICalculator.pdb
+C:\Users\draak\source\repos\BMICalculator\BMICalculator\obj\Debug\BMICalculator.csprojAssemblyReference.cache
+C:\Users\draak\source\repos\BMICalculator\BMICalculator\obj\Debug\BMICalculator.Properties.Resources.resources
+C:\Users\draak\source\repos\BMICalculator\BMICalculator\obj\Debug\BMICalculator.SplashScreen.resources
+C:\Users\draak\source\repos\BMICalculator\BMICalculator\obj\Debug\BMICalculator.csproj.GenerateResource.cache
+C:\Users\draak\source\repos\BMICalculator\BMICalculator\obj\Debug\BMICalculator.exe
+C:\Users\draak\source\repos\BMICalculator\BMICalculator\obj\Debug\BMICalculator.pdb
+C:\Users\draak\source\repos\BMICalculator\BMICalculator\obj\Debug\BMICalculator.Form1.resources
+C:\Users\draak\source\repos\BMICalculator\BMICalculator\obj\Debug\BMICalculator.Form2.resources
